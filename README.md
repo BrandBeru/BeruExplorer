@@ -1,4 +1,4 @@
-# Beru-IDE
+# BeruExplorer
 Administrador de archivos del sistema.
 
 ### Descripcion
